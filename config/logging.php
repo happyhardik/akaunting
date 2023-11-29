@@ -137,6 +137,10 @@ return [
             'driver' => 'sentry',
             'level' => env('LOG_LEVEL', 'debug'),
         ],
+        'deprecations' => [
+    		'driver' => 'single',
+    		'path' => storage_path('logs/php-deprecation-warnings.log'),
+    	],
 
     ],
 
