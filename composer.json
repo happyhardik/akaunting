@@ -42,7 +42,6 @@
         "akaunting/module-paypal-standard": "^3.0",
         "barryvdh/laravel-debugbar": "^3.6",
         "barryvdh/laravel-dompdf": "^2.0",
-        "barryvdh/laravel-ide-helper": "^2.9",
         "bkwld/cloner": "^3.10",
         "bugsnag/bugsnag-laravel": "^2.24",
         "doctrine/dbal": "^3.1",
@@ -138,19 +137,11 @@
             "@php artisan vendor:publish --force --tag=livewire:assets --ansi"
         ],
         "post-install-cmd": [
-            "php artisan ide-helper:generate",
-            "php artisan ide-helper:meta",
-            "php artisan ide-helper:models --nowrite"
         ],
         "post-update-cmd": [
-            "php artisan ide-helper:generate",
-            "php artisan ide-helper:meta",
-            "php artisan ide-helper:models --nowrite"
         ],
         "post-create-project-cmd": [
-            "Illuminate\\Foundation\\ComposerScripts::postInstall",
-            "php artisan ide-helper:generate",
-            "php artisan ide-helper:meta"
+            "Illuminate\\Foundation\\ComposerScripts::postInstall"
         ],
         "prod": [
             "composer install --prefer-dist --no-interaction --no-scripts --no-progress --no-ansi --no-dev",
