@@ -10,7 +10,7 @@ return [
         'upcoming_bills'    => '{1} :count peatselt saabuv ostuarve|[2,*] :count peatselt saabuvad ostuarved',
         'view_all'          => 'Vaata kõiki'
     ],
-    'docs_link'             => 'https://akaunting.com/docs',
-    'support_link'          => 'https://akaunting.com/support',
+    'docs_link'             => 'https://nuaxa.co/docs',
+    'support_link'          => 'https://nuaxa.co/support',
 
 ];

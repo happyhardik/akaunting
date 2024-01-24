@@ -2,9 +2,12 @@
 
 return [
 
-    'version'               => 'संस्करण',
-    'powered'               => 'एकाउन्टिङ्गद्वारा संचालित ',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'निशुल्क लेखापालन सफ्टवेयर',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Nuaxa Network',
+    'link'                  => 'https://nuaxa.co',
+    'software'              => 'Join our Network',
+    'powered_by'            => 'Powered by',
+    'tag_line'              => 'Coworking Space Management',
+    'get_started'           => 'Get Started',
 
 ];

@@ -45,7 +45,7 @@ return [
     ],
 
     'update' => [
-        'core'              => 'Akaunting new version is available! Please, update your installation.',
+        'core'              => 'Nuaxa Network new version is available! Please, update your installation.',
         'module'            => ':module new version is available! Please, update your installation.',
     ],
 ];

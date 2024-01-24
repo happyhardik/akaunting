@@ -22,8 +22,8 @@ return [
         ],
     ],
 
-    'docs_link'             => 'https://akaunting.com',
-    'support_link'          => 'https://akaunting.com/support',
+    'docs_link'             => 'https://nuaxa.co',
+    'support_link'          => 'https://nuaxa.co/support',
 
     'favorite' => [
         'added_favorite'    => 'Pievienota pie favorītiem',

@@ -8,7 +8,7 @@ trait Cloud
 {
     use Modules;
 
-    public $cloud_host = 'app.akaunting.com';
+    public $cloud_host = 'app.nuaxa.co';
 
     public function isCloud()
     {
@@ -18,7 +18,7 @@ trait Cloud
     public function getCloudRolesPageUrl($location = 'user')
     {
         if (! $this->isCloud()) {
-            return 'https://akaunting.com/apps/roles?utm_source=software&utm_medium=' . $location . '&utm_campaign=roles';
+            return 'https://app.nuaxa.co/apps/roles?utm_source=software&utm_medium=' . $location . '&utm_campaign=roles';
         }
 
         if ($this->moduleIsEnabled('roles')) {
@@ -35,7 +35,7 @@ trait Cloud
     public function getCloudBankFeedsUrl($location = 'widget')
     {
         if (! $this->isCloud()) {
-            return 'https://akaunting.com/apps/bank-feeds?utm_source=software&utm_medium=' . $location . '&utm_campaign=bank_feeds';
+            return 'https://app.nuaxa.co/apps/bank-feeds?utm_source=software&utm_medium=' . $location . '&utm_campaign=bank_feeds';
         }
 
         return route('cloud.plans.index', [

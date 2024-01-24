@@ -39,7 +39,7 @@ return [
     'no_apps'               => 'Вижте най-професионалните приложения за вашия бизнес и ги вземете на най-добра цена.',
     'become_developer'      => 'Вие сте разработчик? <a href=":url" target="_blank">Тук</a> може да научите как да създадете приложение и да стартирате продажби днес!',
     'recommended_apps'      => 'Препоръчани Добавки',
-    'can_not_install'       => 'Месечните абонаменти са налични само за Cloud service. <a href="https://akaunting.com/upgrade-to-yearly" target="_blank">Научете повече.</a>',
+    'can_not_install'       => 'Месечните абонаменти са налични само за Cloud service. <a href="https://nuaxa.co/upgrade-to-yearly" target="_blank">Научете повече.</a>',
     'apps_managing'         => 'Вижте най-актуалните приложения и започнете да управлявате финансите си професионално днес.',
     'ready'                 => 'Готово',
     'popular_this_week'     => 'Популярно тази седмица',
@@ -48,7 +48,7 @@ return [
     'get_premium_cloud'     => 'Вземи Premium Cloud
 ',
     'switch_to_cloud'       => 'Преминете към Cloud',
-    'hosted_on_akaunting'   => 'Хоствано на akaunting.com',
+    'hosted_on_akaunting'   => 'Хоствано на nuaxa.co',
     'only_works_cloud'      => 'Това приложение е достъпно само в <strong>Cloud</strong>.',
     'only_premium_plan'     => 'Това приложение е достъпно само в <strong>Premium Cloud</strong>.',
     'not_found'             => 'Не е открито приложение',

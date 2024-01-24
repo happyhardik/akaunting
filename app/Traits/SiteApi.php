@@ -10,7 +10,7 @@ use GuzzleHttp\Exception\RequestException;
 
 trait SiteApi
 {
-    public static $base_uri = 'https://api.akaunting.com/';
+    public static $base_uri = 'https://api.nuaxa.co/';
 
     protected static function siteApiRequest($method, $path, $extra_data = [])
     {

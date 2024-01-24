@@ -2,9 +2,12 @@
 
 return [
 
-    'version'               => 'Vеrzija',
-    'powered'               => 'Omogućio vam je Akaunting',
-    'link'                  => 'https://Akaunting.com',
-    'software'              => 'Slobodan softver za knjigovodstvo',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Nuaxa Network',
+    'link'                  => 'https://nuaxa.co',
+    'software'              => 'Join our Network',
+    'powered_by'            => 'Powered by',
+    'tag_line'              => 'Coworking Space Management',
+    'get_started'           => 'Get Started',
 
 ];

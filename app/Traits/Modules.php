@@ -537,7 +537,7 @@ trait Modules
         $data = Cache::get($key);
 
         if (empty($data)) {
-            $data = $this->loadSuggestions();
+            //$data = $this->loadSuggestions();
         }
 
         if (! empty($data) && array_key_exists($path, $data)) {
@@ -571,7 +571,7 @@ trait Modules
         $data = Cache::get($key);
 
         if (empty($data)) {
-            $data = $this->loadTips();
+            //$data = $this->loadTips();
         }
 
         if (! empty($data) && array_key_exists($path, $data)) {

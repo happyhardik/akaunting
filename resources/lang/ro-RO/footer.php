@@ -2,12 +2,12 @@
 
 return [
 
-    'version'               => 'Versiunea',
-    'powered'               => 'Oferit de Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Program de contabilitate gratuit',
-    'powered_by'            => 'Oferit de',
-    'tag_line'              => 'Trimite facturi, urmărește cheltuielile și automatizează contabilitatea cu Akaunting. :get_started_url',
-    'get_started'           => 'Începe',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Nuaxa Network',
+    'link'                  => 'https://nuaxa.co',
+    'software'              => 'Join our Network',
+    'powered_by'            => 'Powered by',
+    'tag_line'              => 'Coworking Space Management',
+    'get_started'           => 'Get Started',
 
 ];

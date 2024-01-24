@@ -3,11 +3,11 @@
 return [
 
     'version'               => 'Version',
-    'powered'               => 'Powered By Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Free Accounting Software',
+    'powered'               => 'Powered By Nuaxa Network',
+    'link'                  => 'https://nuaxa.co',
+    'software'              => 'Join our Network',
     'powered_by'            => 'Powered by',
-    'tag_line'              => 'Send invoices, track expenses, and automate accounting with Akaunting. :get_started_url',
+    'tag_line'              => 'Coworking Space Management',
     'get_started'           => 'Get Started',
 
 ];

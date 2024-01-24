@@ -2,12 +2,12 @@
 
 return [
 
-    'version'               => 'Versión',
-    'powered'               => 'Desarrollado por Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Software de Contabilidad Libre',
-    'powered_by'            => 'Desarrollado por',
-    'tag_line'              => 'Enviar facturas, rastrear gastos y automatizar la contabilidad con Akaunting. :get_started_url',
-    'get_started'           => 'Empezar',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Nuaxa Network',
+    'link'                  => 'https://nuaxa.co',
+    'software'              => 'Join our Network',
+    'powered_by'            => 'Powered by',
+    'tag_line'              => 'Coworking Space Management',
+    'get_started'           => 'Get Started',
 
 ];

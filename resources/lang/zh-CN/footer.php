@@ -2,9 +2,12 @@
 
 return [
 
-    'version'               => '当前版本',
-    'powered'               => '由 Akaunting 驱动',
-    'link'                  => 'https://akaunting.com',
-    'software'              => '免费会计软件',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Nuaxa Network',
+    'link'                  => 'https://nuaxa.co',
+    'software'              => 'Join our Network',
+    'powered_by'            => 'Powered by',
+    'tag_line'              => 'Coworking Space Management',
+    'get_started'           => 'Get Started',
 
 ];

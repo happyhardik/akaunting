@@ -2,9 +2,12 @@
 
 return [
 
-    'version'               => 'เวอร์ชัน',
-    'powered'               => 'ขับเคลื่อน โดย Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'ซอฟต์แวร์บัญชีฟรี',
+    'version'               => 'Version',
+    'powered'               => 'Powered By Nuaxa Network',
+    'link'                  => 'https://nuaxa.co',
+    'software'              => 'Join our Network',
+    'powered_by'            => 'Powered by',
+    'tag_line'              => 'Coworking Space Management',
+    'get_started'           => 'Get Started',
 
 ];

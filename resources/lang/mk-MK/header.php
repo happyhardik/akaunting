@@ -10,7 +10,7 @@ return [
         'upcoming_bills'    => '{1} :count сметка за плаќање|[2,*] :count сметки за плаќање',
         'view_all'          => 'Види ги сите'
     ],
-    'docs_link'             => 'https://akaunting.com/docs',
-    'support_link'          => 'https://akaunting.com/support',
+    'docs_link'             => 'https://nuaxa.co/docs',
+    'support_link'          => 'https://nuaxa.co/support',
 
 ];

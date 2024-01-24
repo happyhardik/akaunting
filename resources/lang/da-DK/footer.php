@@ -3,11 +3,11 @@
 return [
 
     'version'               => 'Version',
-    'powered'               => 'Drevet af Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Gratis regnskabsprogram',
-    'powered_by'            => 'Drevet af',
-    'tag_line'              => 'Send fakturaer, spor udgifter, og automatiser regnskab med Akaunting. :get_started_url',
-    'get_started'           => 'Kom I Gang',
+    'powered'               => 'Powered By Nuaxa Network',
+    'link'                  => 'https://nuaxa.co',
+    'software'              => 'Join our Network',
+    'powered_by'            => 'Powered by',
+    'tag_line'              => 'Coworking Space Management',
+    'get_started'           => 'Get Started',
 
 ];

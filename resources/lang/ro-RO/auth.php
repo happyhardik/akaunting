@@ -55,7 +55,7 @@ return [
     ],
 
     'invitation' => [
-        'message_1'         => 'Primești acest email deoarece ești invitat să te alături în Akaunting.',
+        'message_1'         => 'Primești acest email deoarece ești invitat să te alături în Nuaxa Network.',
         'message_2'         => 'Dacă nu dorești să te alături, nu este necesară nicio acțiune suplimentară.',
         'button'            => 'Să începem',
     ],
@@ -64,17 +64,17 @@ return [
         'invoice'           => 'Creează facturi ușor',
         'reports'           => 'Obține rapoarte detaliate',
         'expense'           => 'Urmărește orice cheltuială',
-        'customize'         => 'Personalizează-ți Akaunting',
+        'customize'         => 'Personalizează-ți Nuaxa Network',
     ],
 
     'roles' => [
         'admin' => [
             'name'          => 'Administrator',
-            'description'   => 'Aceștia au acces deplin la Akaunting-ul tău, inclusiv la clienți, facturi, rapoarte, setări și aplicații.',
+            'description'   => 'Aceștia au acces deplin la Nuaxa Network-ul tău, inclusiv la clienți, facturi, rapoarte, setări și aplicații.',
         ],
         'manager' => [
             'name'          => 'Manager',
-            'description'   => 'Obțin acces deplin la Akauntingul tău, dar nu pot gestiona utilizatorii și aplicațiile.',
+            'description'   => 'Obțin acces deplin la Nuaxa Networkul tău, dar nu pot gestiona utilizatorii și aplicațiile.',
         ],
         'customer' => [
             'name'          => 'Client',

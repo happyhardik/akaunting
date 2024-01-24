@@ -45,7 +45,7 @@ return [
     ],
 
     'update' => [
-        'core'              => 'Uma nova versão do Akaunting está disponível! Por favor, atualize sua instalação.',
+        'core'              => 'Uma nova versão do Nuaxa Network está disponível! Por favor, atualize sua instalação.',
         'module'            => 'Uma nova versão do :module está disponível! Por favor, atualize sua instalação.',
     ],
 ];

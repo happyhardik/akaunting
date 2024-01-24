@@ -23,8 +23,8 @@ return [
         ],
     ],
 
-    'docs_link'             => 'https://akaunting.com/docs',
-    'support_link'          => 'https://akaunting.com/support',
+    'docs_link'             => 'https://nuaxa.co/docs',
+    'support_link'          => 'https://nuaxa.co/support',
 
     'favorite' => [
         'added_favorite'    => 'Добавено в любими',
