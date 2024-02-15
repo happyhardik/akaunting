@@ -8,7 +8,8 @@ trait Cloud
 {
     use Modules;
 
-    public $cloud_host = 'app.nuaxa.co';
+    //Currently, we are using on premise version, not the cloud version as it is not ready
+    public $cloud_host = 'cloud.nuaxa.co';
 
     public function isCloud()
     {
